@@ -1,0 +1,177 @@
+/* CSS Document */
+
+h4{
+color:#FF9900;
+font-size:14px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-weight:300;
+}
+
+.contenedor_opciones_panel{
+position:relative;
+margin-left:160px;
+margin-top:-240px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_opciones_panel2{
+position:relative;
+margin-left:160px;
+margin-top:-200px;
+text-align:center;
+width:150px;
+}
+
+
+#contenedor_leyenda_mod{
+	position:absolute;
+	margin-left:135px;
+	width:350px;
+	left: 315px;
+	top: 100px;
+}
+
+#contenedor_leyenda_mod_paneladmin{
+	position:absolute;
+	margin-left:45px;
+	width:450px;
+	left: 315px;
+	top: 100px;
+}
+
+.contenedor_consulta{
+position:relative;
+margin-left:160px;
+margin-top:50px;
+text-align:center;
+width:150px;
+}
+
+.analisis_multimedia{
+position:relative;
+margin-left:160px;
+margin-top:50px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_exportacion{
+position:relative;
+margin-left:380px;
+margin-top:-255px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_usuarios{
+position:relative;
+margin-left:380px;
+margin-top:45px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_pubp{
+position:relative;
+margin-left:380px;
+margin-top:-265px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_prestamodevolucion{
+position:relative;
+margin-left:610px;
+margin-top:-260px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_marbete{
+position:relative;
+margin-left:382px;
+margin-top:42px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_busqueda{
+position:relative;
+margin-left:615px;
+margin-top:-275px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_inicio{
+position:relative;
+margin-left:615px;
+margin-top:32px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_configuracion{
+position:relative;
+margin-left:610px;
+margin-top:45px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_ayuda{
+position:relative;
+margin-left:160px;
+margin-top:45px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_acerca{
+position:relative;
+margin-left:380px;
+margin-top:-110px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_login{
+	position:relative;
+	margin-left:160px;
+	margin-top:30px;
+}
+
+/********************* administracion configuraciones *********************************/
+
+.home_configuracion{
+margin-left:160px;
+margin-top:-210px;
+text-align:center;
+clear:both;
+width:150px;
+}
+
+.contenedor_consultas-clasificacion{
+position:relative;
+margin-left:350px;
+margin-top:-105px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_config_marcs{
+position:relative;
+margin-left:580px;
+margin-top:-105px;
+text-align:center;
+width:150px;
+}
+
+.contenedor_config_perfiles_biblioteca{
+position:relative;
+margin-left:350px;
+margin-top:55px;
+text-align:center;
+width:150px;
+}

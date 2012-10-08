@@ -1,0 +1,24 @@
+#fondo_area_busqueda{
+	position:relative;
+	margin-left:135px;
+	margin-top:20px;
+	width:72%;
+	height:140px;
+	padding-top:5px;
+	background-color:#fbef9c;
+}
+/*#ebeae9*/
+#cuerpo{
+	position:relative;
+	margin-left:135px;
+	margin-top:-310px;
+	width:72%;
+}
+
+#contenedor_resultados{
+	position:relative;
+	width:630px;
+	margin-left:150px;
+	margin-top:10px;
+	width: 72%;
+}

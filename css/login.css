@@ -1,0 +1,31 @@
+body{
+	margin:auto 0;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+
+#cuerpo{
+	margin-left:120px;
+}
+
+#fondo_login{
+	position:relative;
+	margin-left:180px;
+	background-image:url(../img/gif/fondologin.gif);
+	background-repeat:no-repeat;
+	width:450px;
+	height:350px;	
+}
+
+#contenedor_form{
+	position:relative;
+	margin-left:45px;
+	margin-top:80px;
+}
+
+.img_login{
+	position:static;
+	margin-left:250px;
+	margin-top:-175px;	
+}
+

@@ -1,0 +1,482 @@
+.seccion {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	color: #666666;
+	background-color:#cccccc;
+	text-indent: 3px;
+}
+
+.texto_ustedbusco {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	background-color:#eceded;
+	text-indent: 3px;
+}
+
+.texto_num_registro {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#ffffff;
+	background-color:#009999;
+	text-indent: 3px;
+}
+
+.texto_num_registro_multimedia {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#ffffff;
+	background-color:#009999;
+	text-indent: 3px;
+}
+
+.texto_num_registro_libro_cusuario{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	background-color:#c6e131;
+	text-indent: 3px;
+}
+
+.texto_num_registro_libros {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	background-color:#c6e131;
+	text-indent: 3px;
+}
+
+.texto_num_registro_pp {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#ffffff;
+	background-color:#fb65b3;
+	text-indent: 3px;
+}
+
+.texto_consulta_num_registro_pp {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#ffffff;
+	background-color:#279FE7;
+	text-indent: 3px;
+}
+
+.fondo_etq {
+	background-color:#e3e3e3;
+	width:100%;
+}
+
+.marcador{
+	background-color:#ffff66;
+}
+
+.fila_catalogo{
+ position:relative;
+ width:80%;
+}
+
+.fila_catalogo_{
+ position:relative;
+ width:80%;
+}
+
+.fila_catalogos{
+ position:relative;
+ width:100%;
+}
+
+
+.fila_catalogo_paginador{
+ position:relative;
+ width:123%;
+}
+
+.fila_catalogo_paginador_edfichas{
+ position:relative;
+ width:122%;
+}
+
+.fila_detalle_consulta{
+ position:relative;
+ width:90%;
+}
+
+#conten_catalogo_documentos{
+position:relative;
+margin-left:135px;
+margin-top:-300px;
+margin-bottom:10px;
+}
+
+#conten_modificacion_ficha{
+position:relative;
+margin-left:135px;
+margin-top:5px;
+margin-bottom:10px;
+}
+
+#conten_modificacion_ejemplar{
+position:relative;
+margin-left:55px;
+margin-top:5px;
+margin-bottom:10px;
+}
+
+#conten_resultados{
+position:relative;
+margin-left:135px;
+margin-top:-300px;
+margin-bottom:10px;
+width:400px;
+}
+
+#conten_seleccion_material{
+position:relative;
+margin-left:135px;
+margin-top:-220px;
+margin-bottom:10px;
+}
+
+
+#conten_catalogo_general{
+position:relative;
+margin-left:135px;
+margin-top:-300px;
+margin-bottom:10px;
+}
+
+#conten_configBiblio{
+position:relative;
+margin-left:135px;
+margin-top:-220px;
+margin-bottom:10px;
+}
+
+#fondo_formulario_busqueda_documentos{
+	position:relative;
+	width:80%;
+	background-color:#F1F5C0;
+}
+
+ul.horiz li{
+ display: inline;
+ list-style-type: none;
+ padding-left: 0;
+ margin-left: 0;
+ margin-right:3px; 
+}
+
+.contenedor_texto_catalogo{
+	position:relative;
+	width:80%;
+}
+
+.contenedor_texto_cfgBiblio{
+	position:relative;
+	width:80%;
+}
+
+.contenedor_texto_catalogoGneral{
+	position:relative;
+	width:80%;
+}
+
+.seccion_marc_seleccionados{
+position:relative;
+margin-left:330px;
+margin-top:-520px;
+clear:left;
+}
+
+.seccion_tipos_material_seleccionados{
+position:absolute;
+margin-left:260px;
+margin-top:-113px;
+clear:both;
+}
+
+.seccion_marcs_seleccionados{
+position:relative;
+margin-left:260px;
+margin-top:-260px;
+clear:both;
+}
+
+.btns_agregar_modificar_tipos_material{
+position:absolute;
+margin-left:232px;
+margin-top:-70px;
+clear:both;
+}
+
+.btns_agregar_modificar_marcs{
+position:relative;
+margin-left:232px;
+margin-top:-180px;
+clear:both;
+}
+
+.opciones_perfil{
+	position:absolute;
+	margin-left:250px;
+	margin-top:-35;
+	clear:left;
+}
+
+.opciones_perfil_activar_perfil{
+	position:absolute;
+	margin-left:520px;
+	margin-top:-133;
+	clear:left;
+}
+
+.color_verde{
+color:#009900;
+}
+
+.color_rojo{
+color:#FF0000;
+}
+
+#panel_opciones_material{
+position:absolute;
+margin-left:450px;
+margin-top:-220px;
+}
+
+.enlace{
+	color:#CC0000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;	
+}
+
+.enlace a:link, .enlace a:visited{
+text-decoration:none;
+color:#CC0000;
+}
+
+.enlace a:hover, .enlace a:active{
+	text-decoration:underline;
+	color:#CC0000;	
+}
+
+.enlace2{
+	color:#009933;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:justify;	
+}
+
+.enlace2 a:link, .enlace2 a:visited{
+text-decoration:none;
+color:#009933;
+}
+
+.enlace2 a:hover, .enlace2 a:active{
+	text-decoration:underline;
+	color:#009933;	
+}
+
+.ubicacion_perfil_activo{
+clear:left;
+position:relative;
+margin-left:370px;
+margin-top:-55px;
+margin-bottom:50px;
+}
+
+.ubicacion_perfil_activo2{
+clear:left;
+position:relative;
+margin-left:370px;
+margin-top:-55px;
+margin-bottom:30px;
+}
+
+.ubicacion_perfil_activo_marc{
+clear:left;
+position:relative;
+margin-left:390px;
+margin-top:-35px;
+margin-bottom:20px;
+}
+
+.ubicacion_perfil_usuario{
+clear:left;
+position:relative;
+margin-left:370px;
+margin-top:-33px;
+margin-bottom:18px;
+text-align:left;
+}
+
+.ubicacion_perfil_usuario2{
+clear:left;
+position:relative;
+margin-left:370px;
+margin-top:-18px;
+margin-bottom:12px;
+text-align:left;
+}
+
+.paso_ingreso{
+position:relative;
+margin-top:-220px;
+margin-bottom:225px;
+margin-left:385px;
+clear:right;
+color:#0000FF;
+}
+
+.opciones_analisis_libros{
+position:relative;
+margin-left:-250x;
+margin-top:10px;
+text-align:left;
+}
+
+.opciones_paginado{
+position:relative;
+margin-left:-320x;
+margin-top:30px;
+text-align:center;
+}
+
+.opciones_analisis_libros2{
+position:relative;
+margin-left:-330px;
+margin-top:-75px;
+text-align:center;
+}
+
+.opciones_publicaciones_periodicas{
+position:relative;
+margin-left:-320px;
+margin-top: 5px;
+text-align:center;
+}
+
+.opciones_publicaciones_periodicas_ejemplares{
+position:relative;
+margin-left: 180px;
+margin-top: -30px;
+margin-bottom:20px;
+text-align:center;
+}
+
+.lista_horiz{
+list-style:outside;
+list-style-position:outside;
+}
+
+.lista1{
+list-style-image:url(../img/vinetas/notif.png);
+list-style-position:outside;
+color:#CC3300;
+margin-left:5px;
+margin-top:5px;
+}
+
+.lista2{
+list-style-image:url(../img/vinetas/2.png);
+list-style-position:outside;
+color:#CC3300;
+margin-left:5px;
+margin-top:5px;
+}
+
+.ejemplares{
+position:relative;
+margin-left:450px;
+margin-top:-615px;
+}
+
+/* CSS PARA LOS SELECT DINAMICOS *************************************************************/
+
+#demoIzq, #demoDer { border:1px dashed; width:296px; background-color:#EAEAEA; text-align:left; }
+
+#demoDer { float:right; }
+
+select { width:220px; }
+
+#conten_ayuda_marcs{
+position:relative;
+margin-left:25px;
+margin-top:25px;
+margin-bottom:0px;
+}
+
+.texto_ayuda_catalogo{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+}
+
+.texto_detalle_consulta {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	font-weight:bold;
+	background-color:#CCCCCC;
+	text-indent: 3px;
+}
+
+.resaltado{
+	color: #000000;
+	background: #55FF2A;
+	font-weight: bold;
+}
+
+#contenedor_inferior{
+	position:relative;
+	padding-top:5px;
+	padding-left:10px;
+	width:630px;
+	height:135px;
+	clear:both;
+	background-image:url(../img/jpg/catalogo_banner_inf.jpg);
+	background-repeat:no-repeat;
+}
+
+.enlace_registroactualizado{
+	color:#CC0000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;	
+}
+
+.enlace_registroactualizado a:link, .enlace a:visited{
+text-decoration:none;
+color:#CC0000;
+}
+
+.enlace_registroactualizado a:hover, .enlace a:active{
+	text-decoration:underline;
+	color:#CC0000;	
+}
+
+#container_mensaje_actualiza_ficha{
+	position:relative;
+	margin-left:390px;
+	margin-top:210px;
+	clear:both;
+}
+
+.img_ficha_actualizada{
+position:relative;
+margin-top:0px;
+margin-left:85px;
+clear:both;
+}
+
+#fondo_area_busqueda{
+	position:relative;
+	margin-left:5px;
+	margin-top:20px;
+	width:72%;
+	height:140px;
+	padding-top:5px;
+	background-color:#fbef9c;
+}

@@ -1,0 +1,21 @@
+#conten_catalogo_documentos{
+position:relative;
+margin-left:135px;
+margin-top:-300px;
+margin-bottom:10px;
+}
+
+h3{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#3399FF;
+font-weight:bold;
+}
+
+#fondo_opciones_clasificacion{
+position:relative;
+padding-top:5px;
+background-color:#CCCCCC;
+width:500px;
+height:270px;
+}

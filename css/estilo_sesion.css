@@ -1,0 +1,21 @@
+/* CSS Document */
+
+.img_fondo{
+background-image:url(../img/comunes/footer.jpg);
+width:800px;
+height:64px;
+}
+
+.img_fondo2{
+background-image:url(../../img/comunes/footer.jpg);
+width:800px;
+height:64px;
+}
+
+
+.contenedor_texto{
+	position:relative;
+	left:110px;
+	top:20px;
+}
+
